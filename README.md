@@ -14,6 +14,7 @@ Programa desenvolvido em portugol com o objetivo de conhecer a linguagem. Desenv
 **Exemplo:**
 
 > Digite o nome do primeiro jogador: Danyllo
+> 
 > Digite o nome do segundo jogador: Vitor
 >
 > Jogo da Véia.  Rodada nº: 1
@@ -25,6 +26,7 @@ Programa desenvolvido em portugol com o objetivo de conhecer a linguagem. Desenv
 > [   ]   [   ]   [   ]
 >
 > Danyllo, digite o número da linha: 2
+> 
 > Danyllo, digite o número da coluna: 2
 >
 > Jogo da Véia.  Rodada nº: 2
@@ -36,6 +38,7 @@ Programa desenvolvido em portugol com o objetivo de conhecer a linguagem. Desenv
 > [    ]   [    ]   [    ]
 >
 > Vitor, digite o número da linha: 1
+> 
 > Vitor, digite o número da coluna: 1
 >
 > Jogo da Véia.  Rodada nº: 3
@@ -47,6 +50,7 @@ Programa desenvolvido em portugol com o objetivo de conhecer a linguagem. Desenv
 > [     ]   [    ]   [    ]
 >
 > Danyllo, digite o número da linha: 2
+> 
 > Danyllo, digite o número da coluna: 3
 >
 > Jogo da Véia.  Rodada nº: 4
